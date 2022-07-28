@@ -1,2 +1,2 @@
-# https//lading2022.github.io
+# http://lading2022.github.io
 Primeiro projeto landing page.
